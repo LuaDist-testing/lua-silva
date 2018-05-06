@@ -1,0 +1,13 @@
+
+name = "lua-silva"
+version = "0.1.0"
+
+desc = "your personal string matching expert"
+author = "Francois Perrad"
+license = "MIT/X11"
+url = "http://fperrad.github.io/lua-Silva/"
+maintainer = "Francois Perrad"
+
+depends = {
+    "lua ~> 5.1",
+}
