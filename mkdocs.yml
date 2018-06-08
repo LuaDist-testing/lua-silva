@@ -1,0 +1,10 @@
+site_name: lua-Silva
+site_description: your personal string matching expert
+site_author: François Perrad
+repo_url: https://github.com/fperrad/lua-Silva
+pages:
+- Home: index.md
+- API:
+  - Silva: silva.md
+theme: mkdocs
+copyright: Copyright &copy; 2017-2018 Fran&ccedil;ois Perrad
