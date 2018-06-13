@@ -1,15 +1,15 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = 'lua-Silva'
-version = '0.1.1-1'
+version = '0.1.1-2'
 -- LuaDist source
 source = {
-  tag = "0.1.1-1",
-  url = "git://github.com/LuaDist-testing/lua-silva.git"
+  url = "git://github.com/LuaDist-testing/lua-silva.git",
+  tag = "0.1.1-2"
 }
 -- Original source
 -- source = {
---     url = 'http://github.com/fperrad/lua-Silva/raw/releases/lua-silva-0.1.1.tar.gz',
+--     url = 'https://framagit.org/fperrad/lua-Silva/raw/releases/lua-silva-0.1.1.tar.gz',
 --     md5 = '415e5174c687b4504d73356d4540e729',
 --     dir = 'lua-Silva-0.1.1',
 -- }
@@ -23,7 +23,7 @@ description = {
 
         lua-Silva was inspired by [Mustermann](http://sinatrarb.com/mustermann/).
     ]],
-    homepage = 'http://fperrad.github.io/lua-Silva',
+    homepage = 'http://fperrad.frama.io/lua-Silva',
     maintainer = 'Francois Perrad',
     license = 'MIT/X11'
 }
